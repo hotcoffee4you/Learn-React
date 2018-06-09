@@ -6,7 +6,7 @@ function NumberList(props){
 
     );
     return (
-        <ul>{listItems}</ul>
+        <ol>{listItems}</ol>
     );
 }
 
